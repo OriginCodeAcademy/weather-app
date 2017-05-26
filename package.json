@@ -1,0 +1,22 @@
+{
+  "name": "angular-weather-app",
+  "description": "Weather application built using the Open Weather Map API and AngularJS",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "test": "karma start karma.conf.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "jasmine-core": "^2.6.1",
+    "jsdom": "^10.1.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-jasmine": "^1.1.0",
+    "mocha": "^3.3.0",
+    "strip-scripts": "^0.9.0",
+    "wiredep": "^4.0.0"
+  }
+}
