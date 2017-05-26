@@ -10,6 +10,10 @@
     "tests"
   ],
   "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "angular-toastr": "^2.1.1"
   },
   "devDependencies": {
     "angular-mocks": "^1.6.4",
